@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPLv3">
-  <img src="https://oldschool.runescape.wiki/w/Evil_Bob#/media/File:Evil_Bob.png">
+  <img src="https://oldschool.runescape.wiki/images/Evil_Bob.png">
 </p>
 <p align="center">
    A community patch that adds a couple of tweaks to the mobile game <b>Star Trek Fleet Command&#8482;</b>
